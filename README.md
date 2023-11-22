@@ -305,6 +305,11 @@ https://cloudsecurityalliance.org/education/ccsk/
 50% discount for exam and/or training course \
 Deal valid: 27 November 2023 only
 
+Cybr's Cloud Security Training \
+https://cybr.com/pricing/
+4 months free off 12-month subscription \
+Deal ends: 27 November @ 10:00pm MST 
+
 ## Practical Labs:
 
 Safer Internet Project Ongoing Labs \
